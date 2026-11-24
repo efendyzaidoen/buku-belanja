@@ -1,0 +1,13 @@
+{
+  "name": "Buku Belanja",
+  "short_name": "Buku Belanja",
+  "description": "Copyright (c) 2026 Buku Belanja - Edho Tensei. All Rights Reserved.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFF7ED",
+  "theme_color": "#16A34A",
+  "icons": [
+    { "src": "logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
